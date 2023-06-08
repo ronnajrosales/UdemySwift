@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02066AE72A31EC4C007AC96B /* PlaySoundsViewController+Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02066AE62A31EC4C007AC96B /* PlaySoundsViewController+Audio.swift */; };
 		428809902A3053DD00440961 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288098F2A3053DD00440961 /* AppDelegate.swift */; };
 		428809922A3053DD00440961 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428809912A3053DD00440961 /* SceneDelegate.swift */; };
 		428809942A3053DD00440961 /* RecordSoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428809932A3053DD00440961 /* RecordSoundViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		02066AE62A31EC4C007AC96B /* PlaySoundsViewController+Audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlaySoundsViewController+Audio.swift"; sourceTree = "<group>"; };
 		4288098C2A3053DD00440961 /* UdemySwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UdemySwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4288098F2A3053DD00440961 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		428809912A3053DD00440961 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				428809912A3053DD00440961 /* SceneDelegate.swift */,
 				428809932A3053DD00440961 /* RecordSoundViewController.swift */,
 				429CAA522A31B5EC001A0E52 /* PlaySoundsViewController.swift */,
+				02066AE62A31EC4C007AC96B /* PlaySoundsViewController+Audio.swift */,
 				428809952A3053DD00440961 /* Main.storyboard */,
 				428809982A3053DF00440961 /* Assets.xcassets */,
 				4288099A2A3053DF00440961 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02066AE72A31EC4C007AC96B /* PlaySoundsViewController+Audio.swift in Sources */,
 				428809942A3053DD00440961 /* RecordSoundViewController.swift in Sources */,
 				428809902A3053DD00440961 /* AppDelegate.swift in Sources */,
 				429CAA532A31B5EC001A0E52 /* PlaySoundsViewController.swift in Sources */,
